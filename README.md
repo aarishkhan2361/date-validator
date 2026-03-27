@@ -35,19 +35,6 @@ chmod +x tests/run_tests.sh
 bash tests/run_tests.sh
 ```
 
-## Project Structure
-
-```
-date-validator/
-├── validate_date.sh   # Main script
-├── tests/
-│   └── run_tests.sh   # Automated test suite
-├── docs/
-│   └── DESIGN.md      # Design notes
-├── .gitignore
-└── README.md
-```
-
 ## Exit Codes
 
 | Code | Meaning        |
